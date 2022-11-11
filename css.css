@@ -1,0 +1,43 @@
+p {
+	color: white;
+	font-family: cursive;
+	text-align: left;
+    padding: 2px;
+    
+}
+h3 {
+	color: white;
+	font-family: cursive;
+	text-align: left;
+    padding: 2px;
+}
+img{
+ width: 600px;
+ height: 400px;
+
+ display: inline-block;
+
+}
+div{
+    display: inline-block;
+    width: 600px;
+   }
+.home{
+  margin-top: auto;
+  margin-right: auto;
+   }
+table{
+    color: white;
+	font-family: cursive;
+	text-align: left;
+    
+
+}
+h1{color: white;
+	font-family: cursive;
+	text-align: center;
+
+}
+form{
+	display: inline-block;
+}
